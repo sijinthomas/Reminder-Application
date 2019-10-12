@@ -1,3 +1,4 @@
 Download DB Browser for SQLite3 for viewing the database
-Run reminder.py file
+Run reminder.py file and enter the details then press submit button
+Then click on start to run the reminder
 time in 24 hour format
